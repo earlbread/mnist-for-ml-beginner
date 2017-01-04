@@ -1,6 +1,6 @@
 # MNIST For ML Beginners
 
-This is implementation of [MNIST For ML Beginners][] which is a TensorFlow tutorial by Google.
+This is an implementation of [MNIST For ML Beginners][] which is a TensorFlow tutorial by Google.
 
 To run this you need to install the [TensorFlow][].
 
